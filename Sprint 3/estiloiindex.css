@@ -1,0 +1,46 @@
+body{
+    background-color: #d2e7d7;
+}
+
+.img1{
+    width: 70px;
+    height: 90px;
+}
+
+.img2{
+    width: 70px;
+    height: 50px;
+}
+
+.grupo{
+    text-align: center;
+    padding: 4px;
+    margin: 12px;
+    border: 7px solid rgba(88, 182, 154, 0.445);
+    border-radius: 20px;
+    background-color: rgba(172, 231, 231, 0.5);
+}
+
+.datos{
+    font-size: x-large;
+    color: rgba(66, 173, 52, 0.747);
+    text-align: center;
+    padding: 14px;
+    margin: 12px;
+    border: 7px solid rgb(88, 182, 154);
+}
+
+.imc{
+    color: rgba(66, 173, 52, 0.747);
+    text-align: center;
+    padding: 4px;
+    margin: 12px;
+    border: 7px solid rgba(88, 182, 154, 0.445);
+    border-radius: 20px;
+    background-color: rgba(172, 231, 231, 0.5);
+}
+
+div{
+    font-size: 110%;
+    color: rgba(66, 173, 52, 0.747);
+}
